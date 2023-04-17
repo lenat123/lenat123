@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### This is my personal repository.
 <!--
 **lenat123/lenat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
